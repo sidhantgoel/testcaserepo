@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "actionCollection2",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\taction2: () => {\n\t\tconsole.log(\"this is action2\");\n\t\treturn 0;\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_actionCollection2",
+  "deleted": false,
+  "gitSyncId": "63962b83ac9b5b7e51de4d92_63962bb1ac9b5b7e51de4dad"
+}
