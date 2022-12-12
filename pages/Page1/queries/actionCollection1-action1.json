@@ -14,9 +14,9 @@
       "userPermissions": []
     },
     "pageId": "Page1",
-    "collectionId": "Page1_actionCollection1",
+    "collectionId": "63971d1890f6534d38dd988f",
     "actionConfiguration": {
-      "timeoutInMillisecond": 10000,
+      "timeoutInMillisecond": 0,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "body": "() => {\n  console.log(\"this is action1\");\n  return 0;\n}",
@@ -25,7 +25,6 @@
       "isAsync": false
     },
     "executeOnLoad": false,
-    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -44,5 +43,5 @@
   },
   "id": "Page1_actionCollection1.action1",
   "deleted": false,
-  "gitSyncId": "63962a5aac9b5b7e51de4d6d_63962a6cac9b5b7e51de4d77"
+  "gitSyncId": "63971d1490f6534d38dd9889_63971e4490f6534d38dd98b1"
 }
